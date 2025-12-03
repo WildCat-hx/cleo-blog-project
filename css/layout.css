@@ -105,6 +105,13 @@ box-sizing: border-box;
 .articles {
 display: grid;
 gap: 1rem;
+box-sizing: border-box;
+overflow: auto;
+}
+
+.articles > div {
+    box-sizing: border-box;
+    overflow: auto;
 }
 
 .header-sect {
