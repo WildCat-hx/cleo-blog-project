@@ -71,7 +71,7 @@
     }
 
     .travel .grid-container, .lifestyle .grid-container, .food .grid-container{
-        grid-template-columns: 1fr !important;
+        grid-template-columns: 1fr;
     }
 
     .left-fixed-side, .left-side-lifestyle {
