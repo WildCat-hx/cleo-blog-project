@@ -74,7 +74,7 @@ border-radius: 5px;
 .left-side {
 display: grid;
 gap: var(--spacing-lg);
-grid-template-rows: 1fr 1fr;
+grid-template-rows: repeat(2, 1fr);
 min-height: 600px;
 }
 
@@ -124,7 +124,7 @@ min-height: 400px;
 }
 
 .art-travel {
-grid-template-columns: 1fr 1fr;
+grid-template-columns: repeat(2, 1fr);
 }
 
 .art-lifestyle {
