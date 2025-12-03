@@ -108,8 +108,7 @@ gap: 1rem;
 }
 
 .header-sect {
-grid-template-columns: 1fr 1fr;
-grid-template-rows: 1fr 1fr;
+grid-template: repeat(2, 1fr)/ repeat(2, 1fr);
 min-height: 400px;
 }
 
