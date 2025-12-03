@@ -315,6 +315,12 @@ padding-top: var(--spacing-sm);
     overflow: auto;
 }
 
+.buy-cleo h1 {
+    color: var(--black);
+}
+
+
+
 .article-footer {
     display: grid;
     grid-template-columns: 1fr 3fr;
@@ -340,6 +346,10 @@ padding-top: var(--spacing-sm);
 
 .social-links > div {
     padding: var(--spacing-xs);
+}
+
+.article-txt h4 {
+    color: var(--black);
 }
 
 .inline-posts {
