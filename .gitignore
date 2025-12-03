@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+vendor/
+package-lock.json
+
+# Runtime data
+*.log
+logs/
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+
+# System files
+.DS_Store

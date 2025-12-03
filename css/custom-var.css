@@ -1,0 +1,53 @@
+:root{
+
+    /* Colors */
+
+    --black:#000000;
+    --white:#ffffff;
+    --second-white:#F6F6F6;
+    --purple:#7A6ADC;
+    --dark-purple:#543974;
+    --grey-blue:#758097;
+    --light-grey:#D3D3D3;
+    --blue-cyan:#F3F4F6;
+    --pink:#d84c7a;
+
+    /*Font-family*/
+
+    --title-fonts:"Playfair Display", sans-serif, serif;
+    --text-fonts:"Poppins", sans-serif, serif;
+
+    /* Project color definitions */
+
+    --bg-color:var(--white);
+    --bg-section-color:var(--blue-cyan);
+    --txt-color:var(--black);
+    --main-title-color:var(--white);
+    --secondary-title-color:var(--black);
+    --third-title-color:var(--purple);
+    --btn-bg-color:var(--purple);
+    --input-bg-color:var(--second-white);
+
+    /* Font sizes */
+
+    --font-size-xs:1rem; /* 16px */
+    --font-size-sm:1.25rem;
+    --font-size-md:1.5rem; /* 24px */
+    --font-size-lg:1.875rem; /* 30px */
+    --font-size-xl:2rem; /* 36px */
+
+    /* Weight sizes */
+
+    --font-weight-light:300;
+    --font-weight-normal:500;
+    --font-weight-bold:700;
+
+    /* Spacing */
+
+    --spacing-xs:0.5rem;
+    --spacing-sm:1rem;
+    --spacing-md:1.5rem;
+    --spacing-lg:2rem;
+    --spacing-xl:3rem;
+
+}
